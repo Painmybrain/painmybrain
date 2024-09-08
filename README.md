@@ -1,18 +1,20 @@
-## Hey!👋 My name is Evgeniya!
+<h1 align="center"> Hey!👋 My name is Evgeniya! </h1>
 
-<!--
-**Painmybrain/painmybrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> 
+  <a href="https://t.me/Sieva_dolor" target="blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm a beginner front-end developer. My journey into IT began with studying the basics of cybersecurity, where I first became acquainted with web development. I was very interested in this area, especially front-end development. I like that this field of activity is at the intersection of programming and design. And I can come up with both code and design^^
+<h3 align="left"> About me: </h3>
+<p>I'm a beginner front-end developer. My journey into IT began with studying the basics of cybersecurity, where I first became acquainted with web development. I was very interested in this area, especially front-end development. I like that this field of activity is at the intersection of programming and design. And I can come up with both code and design^^ <br/>
 Now I’m studying Front-end development at ITGIRSCHOOL courses.
+</p>
+
+- 🔭 I’m currently working on JavaScript
+- 🌱 I’m currently learning JavaScript, React
+- 💬 Ask me about music, books, hicking
+
+
+
+
