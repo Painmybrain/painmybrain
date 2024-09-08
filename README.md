@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-About me:
 I'm a beginner front-end developer. My journey into IT began with studying the basics of cybersecurity, where I first became acquainted with web development. I was very interested in this area, especially front-end development. I like that this field of activity is at the intersection of programming and design. And I can come up with both code and design^^
 Now I’m studying Frontend development at ITGIRSCHOOL courses.
